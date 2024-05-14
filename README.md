@@ -1,7 +1,7 @@
 # Deep-Learning-Generative-AI-Tutorial
 
-## This notebook is an attempt to deep dive into some key concepts of Deep Learning and Emerging field of Gen AI
-#ANN 
+### This notebook is an attempt to deep dive into some key concepts of Deep Learning and Emerging field of Gen AI
+# ANN 
 # Difference between ANN, CNN & RNN 
 # Activation Function 
 ## Sigmoid 
